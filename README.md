@@ -4,9 +4,9 @@ Exponer mi trabajo como diseñador y fotógrafo, dando a conocer de forma atract
 
 ¿Para quiénes es esta propuesta? 
 Esta propuesta se ddirige a los usuarios:
-  Extremo 1: Seguidor en Instagram que entra de curioso a mi página
-  Promedio: Empleadora de 32 años. Es jefa consultora en una oficina de diseño y fue redirigida al sitio desde mi CV. Usará el sitio para conocer más sobre mi identidad e intereses como diseñador. 
-  Extremo 2: Evaluadora de applying para una unviersidad internacional
+  Extremo: Estudiante de diseño que busca inspiración de diseñadores que hayan salido de la Escuela. 
+  Extremo: Evaluadora de una universidad extranjera que revisa postulaciones 
+  Probable: Diseñadora Senior que está buscando nuevos talentos para una oferta laboral. 
   
   
   
