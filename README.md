@@ -1,15 +1,15 @@
 # gasparjarry.cl
 **¿Para qué es esta propuesta?**    
 
-Exponer mi trabajo como diseñador y fotógrafo, dando a conocer de forma atractiva los distintos proyectos y creaciones que he realizado. Así podré tener un portafolio creativo no solo de mis trabajos, sino que refleje mi identidad y capacidades de forma diferente al comun de los portafoliios.
+Exponer mi trabajo como diseñador y fotógrafo, dando a conocer de forma atractiva los distintos proyectos y creaciones que he realizado en distintas áreas. Así podré tener un portafolio general y creativo no solo de mis trabajos, sino que también este refleje mi identidad y capacidades de forma diferente al común de los portafoliios.
 
 **¿Para quiénes es esta propuesta?**    
 
 Esta propuesta se ddirige a los usuarios:    
 
-  Extremo: Estudiante de diseño que busca inspiración de diseñadores que hayan salido de la Escuela. 
-  Extremo: Evaluadora de una universidad extranjera que revisa postulaciones 
-  Probable: Diseñadora Senior que está buscando nuevos talentos para una oferta laboral. 
+  Extremo: Estudiante de diseño que busca inspiración de diseñadores que hayan salido de la Escuela.   
+  Extremo: Evaluadora de una universidad extranjera que revisa postulaciones.   
+  Probable: Diseñadora Senior que está buscando nuevos talentos para una oferta laboral.   
   
   
   
