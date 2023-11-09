@@ -46,8 +46,12 @@ https://jant.fr/?ref=godly
     **Aspectos positivos:** Las animaciones de cada proyecto al hacer Hover la hacen una página atractiva, y en la página de Archivo,  las interacciones de que aparezca una foto y las líenas respondan al mouse lo hacen casi entretenido de navegar, sin dejar de ser explicativo. 
     **Aspectos negativos:** El feel del scroll es extraño, no es fácil de controlar. Debe ser complejo la actualizar la página hacia adelante con distintos proyectos a diferencia de una estructura más común de página web.   
 
+**Moodboard**  
+
+  ![Frame 4](https://github.com/gjarryt/gasparjarry.cl/assets/91491383/e284fd56-990c-4be2-8305-1370adb3a3d0)
+
     
-    
+
 
 
     
