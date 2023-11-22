@@ -1,0 +1,59 @@
+[
+    {
+        "nombre": "Cicada",
+        "fotos": ["https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/1.png", "https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/2.png", "https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/3.png"],
+        "soporte": "diseño de servicios",
+        "abstract": "Experiencia articuladora de expresiones artísticas en el espacio público",
+        "texto": "¿Cómo podemos reconectar a las ciudades con sus creadores a través de espacios físicos vivos y de co-creación para las comunidades? Cicada es un sistema facilitador de expresiones artísticas con enfoque participativo, que por medio de espacios físicos itinerantes en distintos puntos de la ciudad que incorporan a las personas en procesos creativos únicos y significativos. Este sistema se desarrolla en instalaciones multilocalizadas e itinerantes donde comulgan sus atributos: la participación estimulada, lo phygital, el dinamismo, los espacios adaptables, la integración de la comunidad y la transdisciplina. Este proyecto fue realizado para el taller Diseño para los Ecosistemas."
+    },
+    {
+        "nombre": "CEA Ñuñoa",
+        "fotos": ["https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/4.png", "https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/5.png", "https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/6.jpg"],
+        "soporte": "diseño de servicios",
+        "abstract": "Diseño de centro de educación ambiental para Municipalidad de Ñuñoa",
+        "texto": "Este proyecto de diseño de servicios consistió en diseñar el futuro Centro de Educación Ambiental para la Municipalidad de Ñuñoa, un entorno holístico de educación ambiental, que articula dinámicas participativas de aprendizaje y acción ecológica capaces de revalorizar el territorio. Se presentó una propuesta estratégica a la Municipalidad, quienes buscando revalorizar un terreno perdido en un barrio desatendido, presentaron el brief de transformarlo en un foco comunitario que trabaje en torno al medio ambiente. El proyecto permitió entregar conceptos y estrategias para la futura implementación y desarrollo esperable del proyecto."
+    },
+    {
+        "nombre": "Ecualizando Futuros",
+        "fotos": ["https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/7.png", "https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/8.jpg", "https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/9.jpg"],
+        "soporte": "diseño orientado hacia el futuro",
+        "abstract": "Proyectando paisajes sonoros del espacio público mediante participación y diseño",
+        "texto": "Sistema de participación ciudadana para la exploración, creación y proyección de paisajes sonoros futuros del espacio público, mediante herramientas de futuros participativos guiadas por diseño. La participación ciudadana no es abordada de forma sistemática ni puesta en valor en estudios de sonido, afectando a la difusión de un lenguaje sonoro común y a la agencia de los ciudadanos con el entorno y su bienestar. El proyecto busca contribuir a la comprensión de estudios de paisajes sonoros, por nuevas formas de conectar con el entorno para los ciudadanos, revalorizando el sonido como un recurso común para el bienestar y el futuro de las personas, ciudades y ecosistemas."
+    },
+    {
+        "nombre": "Smart Soundscapes",
+        "fotos": ["https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/10.png", "https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/11.png", "https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/12.png"],
+        "soporte": "diseño orientado hacia el futuro",
+        "abstract": "Diseño especulativo de una interfaz de sonido urbana",
+        "texto": "¿Qué tal si la relación de las personas con la ciudad del futuro se construye desde el sonido? El sonido entrega información no estática, y la ciudad no es estática, está en constante cambio y flujo, por ello nuestra relación con ella debe ser flexible. Nuestra relación con la ciudad debe ser sonora. ISU es una interfaz sonora de la capa de servicios de la ciudad para con las personas, creando así paisajes sonoros inteligentes en el espacio urbano, Smart Soundscapes. La interfaz cuenta con 7 capas conceptuales de acción: matriz física, data, protocolo, interfaz sonora, hearable, usuario y espacio urbano."
+    },
+    {
+        "nombre": "Stack para Servicios",
+        "fotos": ["https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/13.png", "https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/14.png", "https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/15.png"],
+        "soporte": "diseño de servicios",
+        "abstract": "Instrumentos de diseño de servicios basados en el modelo Stack",
+        "texto": "“The Stack: On Software and Sovereignty” es un libro del sociólogo y diseñador Benjamin Bratton, en donde se plantea que la informática y la geopolítica de hoy se entienden como una megaestructura por capas, “stack”. Esta estructura se conforma de 6 capas: Tierra (Recursos materiales, uso energético, limitaciones geográficas), Nube (Internet y sus infraestructuras globales), Ciudad (Experiencias de la vida cotidiana, consumo, vigilancia), Dirección (Identificación, ubicación, mapeo, gobernanza), Interfaz (Usuario-Computadora, ideología y política, iA, VR y AR) y Usuario (Participante, comprador, humanos y no humanos). Se propusieron 4 nuevos instrumentos de diseño de servicios en base a este modelo para enriquecer el alcance de la metodología Diseño para Innovar."
+    },
+    {
+        "nombre": "Konecta",
+        "fotos": ["https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/16.png", "https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/17.png", "https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/18.jpg"],
+        "soporte": "diseño de servicios",
+        "abstract": "Sistema de aprendizaje STEM de jóvenes para la Fundación Kodea",
+        "texto": "Como parte del Taller TIDE, se trabajó con Kodea, una fundación enfocada en el talento digital y la innovación educativa y social para empoderar niños, jóvenes y adultos de Chile y Latinoamérica en el mundo digital. Nuestra propuesta fue Konecta, un sistema enfocado en potenciar el aprendizaje STEAM en la trayectoria de niños, niñas y jóvenes, a partir de la exposición nuevas experiencias y la exploración de intereses y herramientas, para que puedan cambiar sus realidades y la del país. El sistema involucra instancias presenciales, alianzas estratégicas, y espacios digitales."
+    },
+    {
+        "nombre": "Libretas de Emociones",
+        "fotos": ["https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/19.webp", "https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/20.jpg", "https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/21.jpg"],
+        "soporte": "diseño participativo",
+        "abstract": "Libretas para la educación emocional para niñas de educación básica",
+        "texto": "En el marco del Taller de Interacción se trabajó junto a estudiantes de  cuarto básico de la Escuela República del Perú de San Bernardo. Se desarrollaron libretas de actividades para la educación emocional, trabajando desde el co-diseño, la horizontalidad, la colectividad y el autoconocimiento. El proceso conllevó la creación de un personaje, el compartir con las niñas y con la profesora, conocer sus inquietudes y poder entregar interfaces en que pudieran participar de la propia comprensión y expresión de sus emociones, guiadas por actividades lúdicas y creativas."
+    },
+    {
+        "nombre": "Experiencia Área de Maternidad - HLF",
+        "fotos": ["https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/22.png", "https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/23.jpg", "https://raw.githubusercontent.com/gjarryt/DNM_Clase-12/main/img/24.png"],
+        "soporte": "diseño de servicios",
+        "abstract": "Diseño para personal de Maternidad del Hospital de La Florida",
+        "texto": "Como parte del curso Introducción al Diseño de Servicios, se trabajó con el área de Maternidad del Hospital Clínico Dra. Eloísa Díaz de La Florida. El proyecto se enfocó en la experiencia de trabajo y descanso del personal, en los espacios que ocupaban y sus dinámicas en el día a día. El proceso involucró investigación de escritorio y de campo, para conocer en terreno las inquietudes, espacios y rutinas del personal y un área de acción viable y relevante. Decantó en una propuesta de redistribución de los espacios y la experiencia del personal en sus momentos de descanso en la jornada."
+    }
+
+]
